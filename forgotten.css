@@ -1,0 +1,32 @@
+.heading
+{
+    color:RGB(24, 119, 242);
+    margin-top: 3%;
+}
+.set
+{
+    margin-left: 50%;
+    margin-top: -3%;
+}
+body
+{
+    background-color:rgb(221, 230, 230);
+    justify-content: center;
+   
+}
+h2
+{
+   margin-left: -15%;
+}
+.NS
+{
+    width: 20%;
+}
+.MD
+{
+    justify-content: center;
+    margin-top: 10%;
+    width: 50%;
+    height: 180%;
+    border: solid 0.2em black;
+}
